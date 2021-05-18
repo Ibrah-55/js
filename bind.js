@@ -6,3 +6,6 @@ let person = {
 };
 let j= person.getName.bind(person)
 setTimeout(j, 1000);
+
+A013986148K
+IxVKgjH1
